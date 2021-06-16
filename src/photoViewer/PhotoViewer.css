@@ -1,5 +1,10 @@
-.image{
+/* .image{
     margin-left:100px;
     width:300px;
     height:auto;
-}
+} */
+
+.testStyle2{
+    border-width:100px;
+    border-style:solid;
+  }
